@@ -1,0 +1,22 @@
+# Build directories
+/cmake-build-debug/
+/cmake-build-release/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# macOS generated files
+.DS_Store
+
+# ide
+.idea
